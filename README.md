@@ -4,4 +4,4 @@ Spark Funds wants to make investments in a few companies. The CEO of Spark Funds
 - Spark Funds has two minor constraints for investments :  <br>
 1. It wants to invest between 5 to 15 million USD per round of investment  <br>
 2. It wants to invest only in English-speaking countries because of the ease of communication with the companies it would invest in  <br>
-- For your analysis, consider a country to be English speaking only if English is one of the official languages in that country.
+-  For your analysis, consider a country to be English speaking only if English is one of the official languages in that country.
